@@ -1,6 +1,6 @@
 public with sharing class myclass {
 	public myclass() {
-
+         system.debug('Leena demo test');
 	}
 
 	public String getAppVersion() {
